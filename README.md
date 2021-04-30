@@ -1,6 +1,7 @@
 # CriptografiaJs 💻
-Proeto feito baseado no vídeo do Erick Wendel sobre: <a href="https://www.youtube.com/watch?v=NiMlyJhlbeg"  target="_blank">Como interceptar funções nativas do Node.js para criptografar dados</a><br>
+Proeto feito baseado no vídeo do Erick Wendel sobre: <a href="https://www.youtube.com/watch?v=NiMlyJhlbeg" target="_blank">Como interceptar funções nativas do Node.js para criptografar dados</a><br>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 # Comandos 
 <b>Start:</b> yarn run dev <br>
